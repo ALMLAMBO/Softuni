@@ -15,8 +15,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InchesToCentimeters", "Inch
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GreetingByName", "GreetingByName\GreetingByName.csproj", "{763D51A7-3FB0-4CE2-AF6F-DBFFFF412722}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. ConcatenateData", "1. ConcatenateData\1. ConcatenateData.csproj", "{2D573059-435B-4B1C-AB87-F03D0AA67759}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcatenateData", "ConcatenateData\ConcatenateData.csproj", "{4E824C75-381B-4786-B2A5-FB7E9930CB22}"
 EndProject
 Global
@@ -49,10 +47,6 @@ Global
 		{763D51A7-3FB0-4CE2-AF6F-DBFFFF412722}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{763D51A7-3FB0-4CE2-AF6F-DBFFFF412722}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{763D51A7-3FB0-4CE2-AF6F-DBFFFF412722}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2D573059-435B-4B1C-AB87-F03D0AA67759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2D573059-435B-4B1C-AB87-F03D0AA67759}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2D573059-435B-4B1C-AB87-F03D0AA67759}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2D573059-435B-4B1C-AB87-F03D0AA67759}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4E824C75-381B-4786-B2A5-FB7E9930CB22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4E824C75-381B-4786-B2A5-FB7E9930CB22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E824C75-381B-4786-B2A5-FB7E9930CB22}.Release|Any CPU.ActiveCfg = Release|Any CPU
