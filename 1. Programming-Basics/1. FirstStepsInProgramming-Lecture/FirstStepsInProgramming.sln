@@ -5,15 +5,19 @@ VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstStepsInProgramming", "FirstStepsInProgramming\FirstStepsInProgramming.csproj", "{A1E94610-B925-4CA3-987B-FCC80EA5B785}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloSoftuni", "HelloSoftuni\HelloSoftuni.csproj", "{9E55E345-4AB1-4FE9-B627-2D41E30B4F1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloSoftuni", "HelloSoftuni\HelloSoftuni.csproj", "{9E55E345-4AB1-4FE9-B627-2D41E30B4F1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers1To10", "Numbers1To10\Numbers1To10.csproj", "{5513F908-0E81-465C-B612-8336BBA2C7CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Numbers1To10", "Numbers1To10\Numbers1To10.csproj", "{5513F908-0E81-465C-B612-8336BBA2C7CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareArea", "SquareArea\SquareArea.csproj", "{5DEE83D0-F3F7-4C6B-8B04-D7B172316A32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquareArea", "SquareArea\SquareArea.csproj", "{5DEE83D0-F3F7-4C6B-8B04-D7B172316A32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InchesToCentimeters", "InchesToCentimeters\InchesToCentimeters.csproj", "{6525E0A9-31FC-4129-A92A-AA74C8BCA6BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InchesToCentimeters", "InchesToCentimeters\InchesToCentimeters.csproj", "{6525E0A9-31FC-4129-A92A-AA74C8BCA6BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreetingByName", "GreetingByName\GreetingByName.csproj", "{763D51A7-3FB0-4CE2-AF6F-DBFFFF412722}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GreetingByName", "GreetingByName\GreetingByName.csproj", "{763D51A7-3FB0-4CE2-AF6F-DBFFFF412722}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. ConcatenateData", "1. ConcatenateData\1. ConcatenateData.csproj", "{2D573059-435B-4B1C-AB87-F03D0AA67759}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcatenateData", "ConcatenateData\ConcatenateData.csproj", "{4E824C75-381B-4786-B2A5-FB7E9930CB22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{763D51A7-3FB0-4CE2-AF6F-DBFFFF412722}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{763D51A7-3FB0-4CE2-AF6F-DBFFFF412722}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{763D51A7-3FB0-4CE2-AF6F-DBFFFF412722}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D573059-435B-4B1C-AB87-F03D0AA67759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D573059-435B-4B1C-AB87-F03D0AA67759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D573059-435B-4B1C-AB87-F03D0AA67759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D573059-435B-4B1C-AB87-F03D0AA67759}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E824C75-381B-4786-B2A5-FB7E9930CB22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E824C75-381B-4786-B2A5-FB7E9930CB22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E824C75-381B-4786-B2A5-FB7E9930CB22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E824C75-381B-4786-B2A5-FB7E9930CB22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
