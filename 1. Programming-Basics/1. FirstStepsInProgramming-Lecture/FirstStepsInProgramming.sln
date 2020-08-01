@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstStepsInProgramming", "FirstStepsInProgramming\FirstStepsInProgramming.csproj", "{A1E94610-B925-4CA3-987B-FCC80EA5B785}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstStepsInProgramming", "FirstStepsInProgramming\FirstStepsInProgramming.csproj", "{A1E94610-B925-4CA3-987B-FCC80EA5B785}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloSoftuni", "HelloSoftuni\HelloSoftuni.csproj", "{9E55E345-4AB1-4FE9-B627-2D41E30B4F1D}"
 EndProject
@@ -15,9 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InchesToCentimeters", "Inch
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GreetingByName", "GreetingByName\GreetingByName.csproj", "{763D51A7-3FB0-4CE2-AF6F-DBFFFF412722}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcatenateData", "ConcatenateData\ConcatenateData.csproj", "{4E824C75-381B-4786-B2A5-FB7E9930CB22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConcatenateData", "ConcatenateData\ConcatenateData.csproj", "{4E824C75-381B-4786-B2A5-FB7E9930CB22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectsCreation", "ProjectsCreation\ProjectsCreation.csproj", "{3AF56EAF-D275-4EA5-826E-2E4DF836DCBD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectsCreation", "ProjectsCreation\ProjectsCreation.csproj", "{3AF56EAF-D275-4EA5-826E-2E4DF836DCBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetShop", "PetShop\PetShop.csproj", "{886967D4-C5BA-4B19-A18F-0194E343E910}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{3AF56EAF-D275-4EA5-826E-2E4DF836DCBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AF56EAF-D275-4EA5-826E-2E4DF836DCBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AF56EAF-D275-4EA5-826E-2E4DF836DCBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{886967D4-C5BA-4B19-A18F-0194E343E910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{886967D4-C5BA-4B19-A18F-0194E343E910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{886967D4-C5BA-4B19-A18F-0194E343E910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{886967D4-C5BA-4B19-A18F-0194E343E910}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
